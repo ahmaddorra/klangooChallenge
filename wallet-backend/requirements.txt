@@ -1,0 +1,10 @@
+Flask==2.0.1
+firebase-admin
+pymongo[srv]
+pandas
+gunicorn
+flask_restful
+requests_oauthlib
+tweepy
+klangooclient
+mailgun
